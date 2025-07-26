@@ -10,8 +10,8 @@ Each tool includes:
 
 ## 🧪 Included Tools
 - `ping`
-- `ipconfig` / `ifconfig`
-- `tracert` / `traceroute`
+- `ipconfig`
+- `tracert`
 - `nslookup`
 - `netstat`
 
