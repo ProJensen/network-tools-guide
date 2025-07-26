@@ -8,12 +8,11 @@ The `ping` command is used to test the reachability of a host (domain name or IP
 ```bash
 ping google.com
 ```
+![Ping Screenshot](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ping-example-1.png)
+
 ## Example 2: Ping a DNS server
 
 ```bash
 ping 8.8.8.8
 ```
-
-## 📷 Screenshot
-
-![Ping Screenshot](https://raw.githubusercontent.com/ProJensen/network-tools-guide/main/screenshots/ping-example.png)
+![Ping Screenshot](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ping-example-2.png)
