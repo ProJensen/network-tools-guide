@@ -5,7 +5,6 @@ A collection of guides for basic networking tools used in IT Support and Helpdes
 Each tool includes:
 - Purpose and real-world use cases
 - Command syntax and sample outputs
-- Troubleshooting tips
 - Screenshots for clarity
 
 ## 🧪 Included Tools
