@@ -8,3 +8,4 @@ The `ping` command is used to test the reachability of a host (domain name or IP
 ping [destination]
 ping google.com
 ping 8.8.8.8
+![Ping Screenshot](screenshots/ping-example.png)
