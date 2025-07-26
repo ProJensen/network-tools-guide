@@ -5,7 +5,10 @@ The `ping` command is used to test the reachability of a host (domain name or IP
 
 ## 📘 Syntax
 ```bash
-ping [destination]
 ping google.com
 ping 8.8.8.8
+```
+
+## 📷 Screenshot
+
 ![Ping Screenshot](https://raw.githubusercontent.com/ProJensen/network-tools-guide/main/screenshots/ping-example.png)
