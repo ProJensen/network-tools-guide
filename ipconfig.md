@@ -17,7 +17,15 @@ This command provides a summary of your current IP address, subnet mask, and def
 ```bash
 ipconfig /all
 ```
-This version gives detailed information for all network adapters, including MAC address, DNS servers, DHCP status, and lease information. Use it for deep diagnostics.
+This command gives detailed information for all network adapters, including MAC address, DNS servers, DHCP status, and lease information. Use it for deep diagnostics.
 
 ![ipconfig /all](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ipconfig-example-2.png)
+
+## 3️⃣ Release the IP Address
+```bash
+ipconfig /release
+```
+This command disconnects your system from the network by releasing the current IP address. It's often used before manually renewing the IP or troubleshooting DHCP issues.
+
+![ipconfig /release](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ipconfig-example-3.png)
 
