@@ -29,3 +29,18 @@ This command disconnects your system from the network by releasing the current I
 
 ![ipconfig /release](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ipconfig-example-3.png)
 
+## 4️⃣ Renew the IP Address
+```bash
+ipconfig /renew
+```
+After using /release, this command requests a new IP address from the DHCP server. It’s helpful if the original IP was invalid or expired.
+
+![ipconfig /renew](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ipconfig-example-4.png)
+
+## 5️⃣ Flush the DNS Cache
+```bash
+ipconfig /flushdns
+```
+This clears the DNS resolver cache on your system. Use it when a website’s IP has changed but your system is still using the old DNS entry.
+
+![ipconfig /flushdns](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ipconfig-example-5.png)
