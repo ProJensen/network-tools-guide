@@ -10,7 +10,7 @@ ping google.com
 ```
 ![Ping Screenshot](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/ping-example-1.png)
 
-## Example 2: Ping a DNS server
+## 2️⃣ Ping a DNS server
 
 ```bash
 ping 8.8.8.8
