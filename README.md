@@ -8,11 +8,11 @@ Each tool includes:
 - Screenshots for clarity
 
 ## 🧪 Included Tools
-- `ping`
-- `ipconfig`
-- `tracert`
-- `nslookup`
-- `netstat`
+- [Ping](ping.md)
+- [Tracert](tracert.md)
+- [Ipconfig](ipconfig.md)
+- [Nslookup](nslookup.md)
+- [Netstat](netstat.md)
 
 📸 Screenshots and command examples included in each file.
 
