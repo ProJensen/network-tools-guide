@@ -41,6 +41,10 @@ Useful when DNS resolution is slow or you want to avoid it for privacy or speed.
 
 Shows connections with associated Process IDs (PIDs).
 
+```bash
+netstat -o
+```
+
 ![netstat -o](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/netstat-example-3.png)
 
 This is helpful when you want to know which program or process is using a specific port.
@@ -50,6 +54,10 @@ You can match the PID with Task Manager to identify the program.
 ### 4️⃣ netstat -an
 
 Combines -a and -n: shows all connections with raw IP and port numbers.
+
+```bash
+netstat-an
+```
 
 ![netstat -an](https://raw.githubusercontent.com/ProJensen/network-tools-guide/refs/heads/main/screenshots/netstat-example-4.png)
 
