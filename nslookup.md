@@ -20,6 +20,9 @@ nslookup google.com
 
 - The IP address(es) of google.com
 
+---
+
+
 ## 2️⃣ nslookup google.com 8.8.8.8
 
 Same query, but use Google's public DNS (8.8.8.8) instead of your default DNS.
